@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Machine-Learning-Specialization_OP?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Machine Learning Specialization(Coursera)
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Machine Learning Specialization(Coursera)
 
 ## About This Course/Certificate
 
